@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\SharpColorPicker\SharpColorPicker\obj\Debug\SharpColorPicker.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\SharpColorPicker\SharpColorPicker\obj\Debug\SharpColorPicker.Properties.Resources.resources
+C:\Users\admin\source\repos\SharpColorPicker\SharpColorPicker\obj\Debug\SharpColorPicker.csproj.GenerateResource.Cache
+C:\Users\admin\source\repos\SharpColorPicker\SharpColorPicker\obj\Debug\SharpColorPicker.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SharpColorPicker\SharpColorPicker\bin\Debug\SharpColorPicker.dll.config
+C:\Users\admin\source\repos\SharpColorPicker\SharpColorPicker\bin\Debug\SharpColorPicker.dll
+C:\Users\admin\source\repos\SharpColorPicker\SharpColorPicker\bin\Debug\SharpColorPicker.pdb
+C:\Users\admin\source\repos\SharpColorPicker\SharpColorPicker\obj\Debug\SharpColorPicker.dll
+C:\Users\admin\source\repos\SharpColorPicker\SharpColorPicker\obj\Debug\SharpColorPicker.pdb
+C:\Users\admin\source\repos\SharpColorPicker\SharpColorPicker\obj\Debug\SharpColorPicker.SharpColorPicker.resources
