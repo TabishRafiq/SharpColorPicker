@@ -6,3 +6,7 @@ A beautiful C# Winform based modern color picker. The user control component com
 # Requirments
 * .NET Framework 3.0 or later;
 * Windows Forms.
+
+# License
+
+Copyright © 2018, [TabishRafiq](https://github.com/TabishRafiq)
