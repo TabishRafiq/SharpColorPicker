@@ -9,4 +9,5 @@ A beautiful C# Winform based modern color picker. The user control component com
 
 # License
 
+This project is licensed under MIT License
 Copyright © 2018, [TabishRafiq](https://github.com/TabishRafiq)
