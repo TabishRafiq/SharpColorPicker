@@ -26,9 +26,14 @@ namespace Test
 
         private void sharpColorPicker1_ColorChanged(object sender, EventArgs e)
         {
-            this.BackColor = sharpColorPicker1.Color;
+            pictureBox1.BackColor = sharpColorPicker1.Color;
             string hex = "#" + sharpColorPicker1.Color.R.ToString("X2") + sharpColorPicker1.Color.G.ToString("X2") + sharpColorPicker1.Color.B.ToString("X2");
             textBox_hex.Text = hex;
+        }
+
+        private void textBox_hex_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
