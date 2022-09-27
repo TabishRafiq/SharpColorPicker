@@ -31,6 +31,7 @@
             this.textBox_hex = new System.Windows.Forms.TextBox();
             this.sharpColorPicker1 = new SharpColorPicker.SharpColorPicker();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.sharpColorPicker2 = new SharpColorPicker.SharpColorPicker();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -62,12 +63,21 @@
             this.pictureBox1.TabIndex = 5;
             this.pictureBox1.TabStop = false;
             // 
+            // sharpColorPicker2
+            // 
+            this.sharpColorPicker2.Color = System.Drawing.Color.White;
+            this.sharpColorPicker2.Location = new System.Drawing.Point(306, 35);
+            this.sharpColorPicker2.Name = "sharpColorPicker2";
+            this.sharpColorPicker2.Size = new System.Drawing.Size(216, 201);
+            this.sharpColorPicker2.TabIndex = 6;
+            // 
             // Test
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(259, 270);
+            this.ClientSize = new System.Drawing.Size(686, 270);
+            this.Controls.Add(this.sharpColorPicker2);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.sharpColorPicker1);
             this.Controls.Add(this.textBox_hex);
@@ -88,6 +98,7 @@
         private System.Windows.Forms.TextBox textBox_hex;
         private SharpColorPicker.SharpColorPicker sharpColorPicker1;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private SharpColorPicker.SharpColorPicker sharpColorPicker2;
     }
 }
 

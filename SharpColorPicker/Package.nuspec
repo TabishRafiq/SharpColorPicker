@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>SharpColorPicker</id>
+    <version>1.0.0</version>
+    <authors>Tabish Ahmed</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>https://github.com/TabishRafiq/SharpColorPicker</projectUrl>
+    <description>A modern C# color picker</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2022</copyright>
+    <tags>color picker usercontrol ui csharp</tags>
+  </metadata>
+</package>

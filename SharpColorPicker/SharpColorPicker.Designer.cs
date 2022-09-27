@@ -36,6 +36,8 @@
             // 
             // H_Slider
             // 
+            this.H_Slider.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.H_Slider.Location = new System.Drawing.Point(0, 180);
             this.H_Slider.Name = "H_Slider";
             this.H_Slider.Size = new System.Drawing.Size(213, 16);
@@ -46,6 +48,9 @@
             // 
             // SV_Slider
             // 
+            this.SV_Slider.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.SV_Slider.Location = new System.Drawing.Point(0, 0);
             this.SV_Slider.Name = "SV_Slider";
             this.SV_Slider.Size = new System.Drawing.Size(213, 165);
