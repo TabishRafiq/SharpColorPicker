@@ -8,7 +8,7 @@ Install-Package SharpColorPicker
 ```
 
 # How to use
-Picker color can be be get or set using the Color attribute
+Once the package is installed, picker color can be get or set using the Color attribute
 
 ```
  private void sharpColorPicker1_ColorChanged(object sender, EventArgs e)
