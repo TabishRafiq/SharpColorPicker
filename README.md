@@ -3,6 +3,10 @@ A beautiful C# Winform based modern color picker. The user control component com
 
 ![Preview](preview.png)
 
+```
+Install-Package SharpColorPicker -Version 1.0.0
+```
+
 # Requirments
 * .NET Framework 3.0 or later;
 * Windows Forms.
