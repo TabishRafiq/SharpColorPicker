@@ -7,6 +7,16 @@ A beautiful C# Winform based modern color picker. The user control component com
 Install-Package SharpColorPicker
 ```
 
+# How to use
+Picker color can be be get or set using the Color attribute
+
+```
+ private void sharpColorPicker1_ColorChanged(object sender, EventArgs e)
+  {
+      pictureBox1.BackColor = sharpColorPicker1.Color;
+  }
+```
+
 # Requirments
 * .NET Framework 3.0 or later;
 * Windows Forms.
