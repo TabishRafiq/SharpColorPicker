@@ -12,9 +12,9 @@ Picker color can be be get or set using the Color attribute
 
 ```
  private void sharpColorPicker1_ColorChanged(object sender, EventArgs e)
-  {
-      pictureBox1.BackColor = sharpColorPicker1.Color;
-  }
+ {
+     pictureBox1.BackColor = sharpColorPicker1.Color;
+ }
 ```
 
 # Requirments
